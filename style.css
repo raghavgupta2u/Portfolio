@@ -225,14 +225,10 @@ section {
     gap: 1rem;
 }
 
-/* ICONS */
-
-.icon {
-    cursor: pointer;
-    height: 2rem;
-}
-
 /* BUTTONS */
+.icon{
+    cursor: pointer;
+}
 
 .btn-container {
     display: flex;
